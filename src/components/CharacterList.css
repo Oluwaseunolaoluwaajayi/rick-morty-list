@@ -1,0 +1,22 @@
+.loading,
+.error {
+  padding: 20px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.character-item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.character-image {
+  width: 60px;
+  height: 60px;
+  border-radius: 8px;
+}
+
+.error {
+  color: red;
+}
